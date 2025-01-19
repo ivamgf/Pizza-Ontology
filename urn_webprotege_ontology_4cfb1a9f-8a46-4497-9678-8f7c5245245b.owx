@@ -1,0 +1,1155 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="urn:webprotege:ontology:4cfb1a9f-8a46-4497-9678-8f7c5245245b"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="urn:webprotege:ontology:4cfb1a9f-8a46-4497-9678-8f7c5245245b">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBJz7TDEBJlkQEojvnupUxS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBOlHcpfZu4PSDNmh28OwZE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RC30loMuIiMUhRXpa5rqzXt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCdnyg9YBOEw0xlfttw9Dyy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDhHodZDsbxptakbY8BR2GS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8NV3TjxiYMWdpgkHLTe8Lt"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9ATE8LAt96UsOVLivuW71s"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9bBNdyCklYSMS0huAtriyK"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBZ1FaHNFG1JxlsVxLKPycA"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8JwZJxnsjlK020S7TeNZRp"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9tkdJpee1rggkTF79plvYL"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBn5jncHOSnCO1YfJYKa02I"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCLEbiJnFizjeGt151HNBy6"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RD3Y23LR9Og4btkFkvNK1JG"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+        <Class IRI="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+        <Class IRI="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <Class IRI="http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ"/>
+        <Class IRI="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+        <Class IRI="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR"/>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBJz7TDEBJlkQEojvnupUxS"/>
+        <Class IRI="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4"/>
+        <Class IRI="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBOlHcpfZu4PSDNmh28OwZE"/>
+        <Class IRI="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RC30loMuIiMUhRXpa5rqzXt"/>
+        <Class IRI="http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB"/>
+        <Class IRI="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCdnyg9YBOEw0xlfttw9Dyy"/>
+        <Class IRI="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDhHodZDsbxptakbY8BR2GS"/>
+        <Class IRI="http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW"/>
+        <Class IRI="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY"/>
+        <Class IRI="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        <Class IRI="http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R8NV3TjxiYMWdpgkHLTe8Lt"/>
+            <Class IRI="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9ATE8LAt96UsOVLivuW71s"/>
+            <Class IRI="http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9bBNdyCklYSMS0huAtriyK"/>
+            <Class IRI="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+            <Class IRI="http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+        <Class IRI="http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBZ1FaHNFG1JxlsVxLKPycA"/>
+            <Class IRI="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4"/>
+        <Class IRI="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8JwZJxnsjlK020S7TeNZRp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8JwZJxnsjlK020S7TeNZRp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RBJz7TDEBJlkQEojvnupUxS"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8JwZJxnsjlK020S7TeNZRp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9tkdJpee1rggkTF79plvYL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9tkdJpee1rggkTF79plvYL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9tkdJpee1rggkTF79plvYL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBn5jncHOSnCO1YfJYKa02I"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBn5jncHOSnCO1YfJYKa02I"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBn5jncHOSnCO1YfJYKa02I"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RDhHodZDsbxptakbY8BR2GS"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBn5jncHOSnCO1YfJYKa02I"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCLEbiJnFizjeGt151HNBy6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCLEbiJnFizjeGt151HNBy6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCLEbiJnFizjeGt151HNBy6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RDhHodZDsbxptakbY8BR2GS"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCLEbiJnFizjeGt151HNBy6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RD3Y23LR9Og4btkFkvNK1JG"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RD3Y23LR9Og4btkFkvNK1JG"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RBOlHcpfZu4PSDNmh28OwZE"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RD3Y23LR9Og4btkFkvNK1JG"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+            <Class IRI="http://webprotege.stanford.edu/RCdnyg9YBOEw0xlfttw9Dyy"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RD3Y23LR9Og4btkFkvNK1JG"/>
+    </ClassAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB</IRI>
+        <Literal xml:lang="pt-br">(envelhecido em carvalho): Um branco encorpado com notas amanteigadas e baunilha, combina bem com queijos cremosos.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB</IRI>
+        <Literal xml:lang="en">A white wine embodied with loving and baunilha notes, combines well with creamy cheeses.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB</IRI>
+        <Literal xml:lang="es">Um branco encorpado com notas amanteigadas e baunilha, combina bem com queijos cremosos.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB</IRI>
+        <Literal xml:lang="en">Chardonnay</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV</IRI>
+        <Literal xml:lang="pt-br">Representa coberturas de queijo, como mussarela, parmesão, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV</IRI>
+        <Literal xml:lang="es">Representa coberturas de queso, como la mussarela, el parmesano, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV</IRI>
+        <Literal xml:lang="en">Represents coberturas de queijo, like mussarela, parmesão, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV</IRI>
+        <Literal xml:lang="en">CheeseTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU</IRI>
+        <Literal xml:lang="pt-br">Representa coberturas vegetais, como tomate, cogumelos, azeitonas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU</IRI>
+        <Literal xml:lang="es">Representa cultivos de hortalizas, como tomates, guisantes y albaricoques.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU</IRI>
+        <Literal xml:lang="en">Represents vegetable coberturas, like tomatoes, cogumelos, azeitonas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU</IRI>
+        <Literal xml:lang="en">VegetableTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3</IRI>
+        <Literal xml:lang="en">A fresh wine, ideal for sabores but neutrals.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3</IRI>
+        <Literal xml:lang="pt-br">Um vinho branco fresco, ideal para sabores mais neutros.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3</IRI>
+        <Literal xml:lang="es">Un vino blanco fresco, ideal para sabores más suaves.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3</IRI>
+        <Literal xml:lang="en">Sauvignon_Blanc</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2</IRI>
+        <Literal xml:lang="en">alcoholic drink typically made from grapes through the fermentation process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2</IRI>
+        <Literal xml:lang="es">bebida alcohólica obtenida de la uva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2</IRI>
+        <Literal xml:lang="pt-br">bebida alcoólica produzida a partir da fermentação de uvas</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2</IRI>
+        <Literal xml:lang="en">Wine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2</IRI>
+        <Literal xml:lang="pt-br">vinho</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2</IRI>
+        <Literal xml:lang="en">vino</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8JwZJxnsjlK020S7TeNZRp</IRI>
+        <Literal xml:lang="en">PizzaFourCheese1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ</IRI>
+        <Literal xml:lang="en">A solid red that complements stronger queijos, such as gorgonzola.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ</IRI>
+        <Literal xml:lang="pt-br">Um tinto macio que complementa queijos mais fortes, como gorgonzola.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ</IRI>
+        <Literal xml:lang="es">Um tinto macio que complementa queijos mais fuertes, como gorgonzola.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ</IRI>
+        <Literal xml:lang="en">Merlot</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8NV3TjxiYMWdpgkHLTe8Lt</IRI>
+        <Literal xml:lang="en">containsVegetable</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw</IRI>
+        <Literal xml:lang="en">Rich and full-bodied, it complements the salty profile of pepperoni.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw</IRI>
+        <Literal xml:lang="pt-br">Rico e encorpado, complementa bem o perfil salgado do pepperoni.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw</IRI>
+        <Literal xml:lang="es">Rico e incorporado, complementa bem o perfil salgado do pepperoni.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw</IRI>
+        <Literal xml:lang="en">Malbec</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV</IRI>
+        <Literal xml:lang="en">An Italian white with good acidity and herbaceous notes.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV</IRI>
+        <Literal xml:lang="pt-br">Um branco italiano com boa acidez e notas herbáceas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV</IRI>
+        <Literal xml:lang="es">Un blanco italiano con boa acidez y notas herbáceas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV</IRI>
+        <Literal xml:lang="en">Verdicchio</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9ATE8LAt96UsOVLivuW71s</IRI>
+        <Literal xml:lang="en">containsMeat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ</IRI>
+        <Literal xml:lang="en">MozzarellaTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP</IRI>
+        <Literal xml:lang="en">A tinted italian wine, leaven and fruit, which complements it with a little acidity of tomato.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP</IRI>
+        <Literal xml:lang="pt-br">Um vinho da itália tinto, leve e frutado, que complementa bem a acidez do molho de tomate.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP</IRI>
+        <Literal xml:lang="es">Un vino italiano picante y afrutado que complementa bien la acidez de la salsa de tomate.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP</IRI>
+        <Literal xml:lang="en">Chianti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9bBNdyCklYSMS0huAtriyK</IRI>
+        <Literal xml:lang="en">containsCheese</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn</IRI>
+        <Literal xml:lang="en">hasTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9tkdJpee1rggkTF79plvYL</IRI>
+        <Literal xml:lang="en">PizzaMargherita1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg</IRI>
+        <Literal xml:lang="en">The best option to balance the flavors without recharging.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg</IRI>
+        <Literal xml:lang="es">Ótima opción para equilibrar los sabores sin volver a cargar.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg</IRI>
+        <Literal xml:lang="pt-br">Ótima opção para equilibrar os sabores sem sobrecarregar.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg</IRI>
+        <Literal xml:lang="pt-br">Rosé seco</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg</IRI>
+        <Literal xml:lang="en">Rose_seco</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf</IRI>
+        <Literal xml:lang="en">A slightly dry red sparkling wine that cleanses the palate between bites.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf</IRI>
+        <Literal xml:lang="pt-br">Um espumante tinto levemente seco que limpa o paladar entre as mordidas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf</IRI>
+        <Literal xml:lang="es">Um espumante tinto levemente seco que limpia o paladar entre as mordidas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf</IRI>
+        <Literal xml:lang="en">Lambrusco_seco</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN</IRI>
+        <Literal xml:lang="en">Excellent for balancing spicy and salty flavors.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN</IRI>
+        <Literal xml:lang="pt-br">Ótimo para equilibrar sabores picantes e salgados.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN</IRI>
+        <Literal xml:lang="es">Ótimo para equilibrar sabores picantes y salgados.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN</IRI>
+        <Literal xml:lang="en">Syrah</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN</IRI>
+        <Literal xml:lang="en">Shiraz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc</IRI>
+        <Literal xml:lang="en">TomatoTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR</IRI>
+        <Literal xml:lang="es">Pizzas que no tienen cobertura de carne</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR</IRI>
+        <Literal xml:lang="pt-br">Pizzas que não contêm coberturas de carne</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR</IRI>
+        <Literal xml:lang="en">Pizzas that do not contain meat toppings</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR</IRI>
+        <Literal xml:lang="en">VegetarianPizza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBJz7TDEBJlkQEojvnupUxS</IRI>
+        <Literal xml:lang="en">ParmesanTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4</IRI>
+        <Literal xml:lang="pt-br">Pizza com pelo menos quatro tipos diferentes de queijo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4</IRI>
+        <Literal xml:lang="es">Pizza con menos de cuatro tipos de queso diferentes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4</IRI>
+        <Literal xml:lang="en">Pizza with four menos and four different types of dishes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4</IRI>
+        <Literal xml:lang="en">FourCheesePizza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBOlHcpfZu4PSDNmh28OwZE</IRI>
+        <Literal xml:lang="en">OliveTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBZ1FaHNFG1JxlsVxLKPycA</IRI>
+        <Literal xml:lang="en">isToppingOf</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf</IRI>
+        <Literal xml:lang="en">A light sparkling wine that enhances the freshness of the food.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf</IRI>
+        <Literal xml:lang="es">Um espumante leve que realça a frescura do manjericão.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf</IRI>
+        <Literal xml:lang="pt-br">Um espumante leve que realça a frescura do manjericão.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf</IRI>
+        <Literal xml:lang="en">Prosecco</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBn5jncHOSnCO1YfJYKa02I</IRI>
+        <Literal xml:lang="en">MeatPizza1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz</IRI>
+        <Literal xml:lang="pt-br">Pizzas que possuem pelo menos uma cobertura de carne</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz</IRI>
+        <Literal xml:lang="es">Pizzas que tengo con menos carne cubierta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz</IRI>
+        <Literal xml:lang="en">Pizzas that have less meat topping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz</IRI>
+        <Literal xml:lang="en">MeatPizza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RC30loMuIiMUhRXpa5rqzXt</IRI>
+        <Literal xml:lang="en">HamTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCLEbiJnFizjeGt151HNBy6</IRI>
+        <Literal xml:lang="en">PizzaPepperoni1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB</IRI>
+        <Literal xml:lang="pt-br">Pizza com queijo e tomate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB</IRI>
+        <Literal xml:lang="es">Pizza con queso y tomate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB</IRI>
+        <Literal xml:lang="en">Pizza with cheese and tomato</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB</IRI>
+        <Literal xml:lang="en">MargheritaPizza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCdnyg9YBOEw0xlfttw9Dyy</IRI>
+        <Literal xml:lang="en">MushroomTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev</IRI>
+        <Literal xml:lang="en">A tint to keep in mind the fruits that do not dominate the delicate sabors.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev</IRI>
+        <Literal xml:lang="pt-br">Um tinto leve com notas frutadas que não dominam os sabores delicados.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev</IRI>
+        <Literal xml:lang="es">Una copa tintada con notas frutales que no dominan los sabores delicados.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev</IRI>
+        <Literal xml:lang="en">Beaujolais</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RD3Y23LR9Og4btkFkvNK1JG</IRI>
+        <Literal xml:lang="en">VegetarianPizza1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z</IRI>
+        <Literal xml:lang="en">Rich in notes of red fruits, it complements the smoked flavor of meats such as pepperoni or meat.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z</IRI>
+        <Literal xml:lang="pt-br">Rico em notas de frutas vermelhas, complementa o sabor defumado de carnes como pepperoni ou presunto.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z</IRI>
+        <Literal xml:lang="es">Rico en notas de frutas rojas, complementa el sabor defumado de carnes como pepperoni o presunto.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z</IRI>
+        <Literal xml:lang="en">Zinfandel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDhHodZDsbxptakbY8BR2GS</IRI>
+        <Literal xml:lang="en">PepperoniTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ</IRI>
+        <Literal xml:lang="en">PizzaDomain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW</IRI>
+        <Literal xml:lang="pt-br">Representa coberturas de carne, como pepperoni, presunto, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW</IRI>
+        <Literal xml:lang="es">Representa tapas de carne, como pepperoni, presunto, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW</IRI>
+        <Literal xml:lang="en">Represents coberturas de carne, como pepperoni, presunto, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW</IRI>
+        <Literal xml:lang="en">MeatTopping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY</IRI>
+        <Literal xml:lang="pt-br">Pizza com queijo e pepperoni</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY</IRI>
+        <Literal xml:lang="es">Pizza con queso y pepperoni</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY</IRI>
+        <Literal xml:lang="en">Pizza with cheese and pepperoni</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY</IRI>
+        <Literal xml:lang="en">PepperoniPizza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy</IRI>
+        <Literal xml:lang="en">Italian universal popular dish with a flat dough-based base and toppings</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy</IRI>
+        <Literal xml:lang="pt-br">alimento</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy</IRI>
+        <Literal xml:lang="es">preparación culinaria originaria de Italia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy</IRI>
+        <Literal xml:lang="en">Pizza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy</IRI>
+        <Literal xml:lang="en">pie, pizza pie</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi</IRI>
+        <Literal xml:lang="en">A robust red that combines well with fattier meats.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi</IRI>
+        <Literal xml:lang="pt">Um tinto robusto que combina bem com carnes mais gordurosas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi</IRI>
+        <Literal xml:lang="es">Un tinto robusto que combina bien con carnes más gordurosas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi</IRI>
+        <Literal xml:lang="en">Cabernet_Sauvignon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh</IRI>
+        <Literal xml:lang="en">Topping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4</IRI>
+        <Literal xml:lang="en">A brandy wine with citrus notes, ideal for destacar vegetais frescoes.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4</IRI>
+        <Literal xml:lang="pt-br">Um vinho branco leve com notas cítricas, ideal para destacar vegetais frescos.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4</IRI>
+        <Literal xml:lang="es">Un vino blanco con notas cítricas, ideal para acompañar verduras frescas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4</IRI>
+        <Literal xml:lang="en">Pinot_Grigio</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey</IRI>
+        <Literal xml:lang="en">isRecommended</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
