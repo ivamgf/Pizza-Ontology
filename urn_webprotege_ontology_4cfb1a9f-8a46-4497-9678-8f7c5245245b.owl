@@ -1,0 +1,778 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="urn:webprotege:ontology:4cfb1a9f-8a46-4497-9678-8f7c5245245b#"
+     xml:base="urn:webprotege:ontology:4cfb1a9f-8a46-4497-9678-8f7c5245245b"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="urn:webprotege:ontology:4cfb1a9f-8a46-4497-9678-8f7c5245245b"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/relation -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/relation"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8NV3TjxiYMWdpgkHLTe8Lt -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8NV3TjxiYMWdpgkHLTe8Lt">
+        <rdfs:label xml:lang="en">containsVegetable</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9ATE8LAt96UsOVLivuW71s -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9ATE8LAt96UsOVLivuW71s">
+        <rdfs:label xml:lang="en">containsMeat</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9bBNdyCklYSMS0huAtriyK -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9bBNdyCklYSMS0huAtriyK">
+        <rdfs:label xml:lang="en">containsCheese</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn">
+        <rdfs:label xml:lang="en">hasTopping</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBZ1FaHNFG1JxlsVxLKPycA -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBZ1FaHNFG1JxlsVxLKPycA">
+        <rdfs:label xml:lang="en">isToppingOf</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey">
+        <rdfs:label xml:lang="en">isRecommended</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="pt-br">(envelhecido em carvalho): Um branco encorpado com notas amanteigadas e baunilha, combina bem com queijos cremosos.</dc:description>
+        <dc:description xml:lang="en">A white wine embodied with loving and baunilha notes, combines well with creamy cheeses.</dc:description>
+        <dc:description xml:lang="es">Um branco encorpado com notas amanteigadas e baunilha, combina bem com queijos cremosos.</dc:description>
+        <rdfs:label xml:lang="en">Chardonnay</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+        <dc:description xml:lang="pt-br">Representa coberturas de queijo, como mussarela, parmesão, etc.</dc:description>
+        <dc:description xml:lang="es">Representa coberturas de queso, como la mussarela, el parmesano, etc.</dc:description>
+        <dc:description xml:lang="en">Represents coberturas de queijo, like mussarela, parmesão, etc.</dc:description>
+        <rdfs:label xml:lang="en">CheeseTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+        <dc:description xml:lang="pt-br">Representa coberturas vegetais, como tomate, cogumelos, azeitonas.</dc:description>
+        <dc:description xml:lang="es">Representa cultivos de hortalizas, como tomates, guisantes y albaricoques.</dc:description>
+        <dc:description xml:lang="en">Represents vegetable coberturas, like tomatoes, cogumelos, azeitonas.</dc:description>
+        <rdfs:label xml:lang="en">VegetableTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">A fresh wine, ideal for sabores but neutrals.</dc:description>
+        <dc:description xml:lang="pt-br">Um vinho branco fresco, ideal para sabores mais neutros.</dc:description>
+        <dc:description xml:lang="es">Un vino blanco fresco, ideal para sabores más suaves.</dc:description>
+        <rdfs:label xml:lang="en">Sauvignon_Blanc</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ"/>
+        <dc:description xml:lang="en">alcoholic drink typically made from grapes through the fermentation process</dc:description>
+        <dc:description xml:lang="es">bebida alcohólica obtenida de la uva</dc:description>
+        <dc:description xml:lang="pt-br">bebida alcoólica produzida a partir da fermentação de uvas</dc:description>
+        <rdfs:label xml:lang="en">Wine</rdfs:label>
+        <rdfs:label xml:lang="pt-br">vinho</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">vino</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">A solid red that complements stronger queijos, such as gorgonzola.</dc:description>
+        <dc:description xml:lang="pt-br">Um tinto macio que complementa queijos mais fortes, como gorgonzola.</dc:description>
+        <dc:description xml:lang="es">Um tinto macio que complementa queijos mais fuertes, como gorgonzola.</dc:description>
+        <rdfs:label xml:lang="en">Merlot</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">Rich and full-bodied, it complements the salty profile of pepperoni.</dc:description>
+        <dc:description xml:lang="pt-br">Rico e encorpado, complementa bem o perfil salgado do pepperoni.</dc:description>
+        <dc:description xml:lang="es">Rico e incorporado, complementa bem o perfil salgado do pepperoni.</dc:description>
+        <rdfs:label xml:lang="en">Malbec</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">An Italian white with good acidity and herbaceous notes.</dc:description>
+        <dc:description xml:lang="pt-br">Um branco italiano com boa acidez e notas herbáceas.</dc:description>
+        <dc:description xml:lang="es">Un blanco italiano con boa acidez y notas herbáceas.</dc:description>
+        <rdfs:label xml:lang="en">Verdicchio</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+        <rdfs:label xml:lang="en">MozzarellaTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">A tinted italian wine, leaven and fruit, which complements it with a little acidity of tomato.</dc:description>
+        <dc:description xml:lang="pt-br">Um vinho da itália tinto, leve e frutado, que complementa bem a acidez do molho de tomate.</dc:description>
+        <dc:description xml:lang="es">Un vino italiano picante y afrutado que complementa bien la acidez de la salsa de tomate.</dc:description>
+        <rdfs:label xml:lang="en">Chianti</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">The best option to balance the flavors without recharging.</dc:description>
+        <dc:description xml:lang="es">Ótima opción para equilibrar los sabores sin volver a cargar.</dc:description>
+        <dc:description xml:lang="pt-br">Ótima opção para equilibrar os sabores sem sobrecarregar.</dc:description>
+        <dc:title xml:lang="pt-br">Rosé seco</dc:title>
+        <rdfs:label xml:lang="en">Rose_seco</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">A slightly dry red sparkling wine that cleanses the palate between bites.</dc:description>
+        <dc:description xml:lang="pt-br">Um espumante tinto levemente seco que limpa o paladar entre as mordidas.</dc:description>
+        <dc:description xml:lang="es">Um espumante tinto levemente seco que limpia o paladar entre as mordidas.</dc:description>
+        <rdfs:label xml:lang="en">Lambrusco_seco</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">Excellent for balancing spicy and salty flavors.</dc:description>
+        <dc:description xml:lang="pt-br">Ótimo para equilibrar sabores picantes e salgados.</dc:description>
+        <dc:description xml:lang="es">Ótimo para equilibrar sabores picantes y salgados.</dc:description>
+        <rdfs:label xml:lang="en">Syrah</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Shiraz</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+        <rdfs:label xml:lang="en">TomatoTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RB52qxyIcDXHUTFdVG7yJUg"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="es">Pizzas que no tienen cobertura de carne</dc:description>
+        <dc:description xml:lang="pt-br">Pizzas que não contêm coberturas de carne</dc:description>
+        <dc:description xml:lang="en">Pizzas that do not contain meat toppings</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Beaujolais</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Pinot_Grigio</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Rose_seco</dc:description>
+        <dc:relation xml:lang="en">Beaujolais</dc:relation>
+        <dc:relation xml:lang="en">Pinot_Grigio</dc:relation>
+        <dc:relation xml:lang="en">Rose_seco</dc:relation>
+        <rdfs:label xml:lang="en">VegetarianPizza</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBJz7TDEBJlkQEojvnupUxS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBJz7TDEBJlkQEojvnupUxS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+        <rdfs:label xml:lang="en">ParmesanTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R73LubsE4Rj36mNANcLGPOB"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R8M4XX48tdq9gWzcivgsCYQ"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="pt-br">Pizza com pelo menos quatro tipos diferentes de queijo</dc:description>
+        <dc:description xml:lang="es">Pizza con menos de cuatro tipos de queso diferentes</dc:description>
+        <dc:description xml:lang="en">Pizza with four menos and four different types of dishes</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Chardonnay</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Merlot</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Sauvignon_Blanc</dc:description>
+        <dc:relation xml:lang="en">Chardonnay</dc:relation>
+        <dc:relation xml:lang="en">Merlot</dc:relation>
+        <dc:relation xml:lang="en">Sauvignon_Blanc</dc:relation>
+        <rdfs:label xml:lang="en">FourCheesePizza</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBOlHcpfZu4PSDNmh28OwZE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBOlHcpfZu4PSDNmh28OwZE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+        <rdfs:label xml:lang="en">OliveTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">A light sparkling wine that enhances the freshness of the food.</dc:description>
+        <dc:description xml:lang="es">Um espumante leve que realça a frescura do manjericão.</dc:description>
+        <dc:description xml:lang="pt-br">Um espumante leve que realça a frescura do manjericão.</dc:description>
+        <rdfs:label xml:lang="en">Prosecco</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="pt-br">Pizzas que possuem pelo menos uma cobertura de carne</dc:description>
+        <dc:description xml:lang="es">Pizzas que tengo con menos carne cubierta</dc:description>
+        <dc:description xml:lang="en">Pizzas that have less meat topping</dc:description>
+        <rdfs:label xml:lang="en">MeatPizza</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC30loMuIiMUhRXpa5rqzXt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC30loMuIiMUhRXpa5rqzXt">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW"/>
+        <rdfs:label xml:lang="en">HamTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R8i1Z0iJPnqluL6GHqazGjV"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBfcfpreDRRDXFo7zKF6Zyf"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="pt-br">Pizza com queijo e tomate</dc:description>
+        <dc:description xml:lang="es">Pizza con queso y tomate</dc:description>
+        <dc:description xml:lang="en">Pizza with cheese and tomato</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Chianti</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Prosecco</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Verdicchio</dc:description>
+        <dc:relation xml:lang="en">Chianti</dc:relation>
+        <dc:relation xml:lang="en">Prosecco</dc:relation>
+        <dc:relation xml:lang="en">Verdicchio</dc:relation>
+        <rdfs:label xml:lang="en">MargheritaPizza</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCdnyg9YBOEw0xlfttw9Dyy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCdnyg9YBOEw0xlfttw9Dyy">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+        <rdfs:label xml:lang="en">MushroomTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCpxRQh5vIC00ef5Mopv4ev">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">A tint to keep in mind the fruits that do not dominate the delicate sabors.</dc:description>
+        <dc:description xml:lang="pt-br">Um tinto leve com notas frutadas que não dominam os sabores delicados.</dc:description>
+        <dc:description xml:lang="es">Una copa tintada con notas frutales que no dominan los sabores delicados.</dc:description>
+        <rdfs:label xml:lang="en">Beaujolais</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDd9tc34bYAFW10bFidu24z">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">Rich in notes of red fruits, it complements the smoked flavor of meats such as pepperoni or meat.</dc:description>
+        <dc:description xml:lang="pt-br">Rico em notas de frutas vermelhas, complementa o sabor defumado de carnes como pepperoni ou presunto.</dc:description>
+        <dc:description xml:lang="es">Rico en notas de frutas rojas, complementa el sabor defumado de carnes como pepperoni o presunto.</dc:description>
+        <rdfs:label xml:lang="en">Zinfandel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDhHodZDsbxptakbY8BR2GS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDhHodZDsbxptakbY8BR2GS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW"/>
+        <rdfs:label xml:lang="en">PepperoniTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ">
+        <rdfs:label xml:lang="en">PizzaDomain</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+        <dc:description xml:lang="pt-br">Representa coberturas de carne, como pepperoni, presunto, etc.</dc:description>
+        <dc:description xml:lang="es">Representa tapas de carne, como pepperoni, presunto, etc.</dc:description>
+        <dc:description xml:lang="en">Represents coberturas de carne, como pepperoni, presunto, etc.</dc:description>
+        <rdfs:label xml:lang="en">MeatTopping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R8c86pQNkjotdSq5F7JkrPw"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBCDAMBloexyCgGUgCruUuf"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBJ15LjajiE9KYbWpcJPjLN"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="pt-br">Pizza com queijo e pepperoni</dc:description>
+        <dc:description xml:lang="es">Pizza con queso y pepperoni</dc:description>
+        <dc:description xml:lang="en">Pizza with cheese and pepperoni</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Lambrusco_seco</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Malbec</dc:description>
+        <dc:description xml:lang="pt-br">É recomendado com vinho Syrah</dc:description>
+        <dc:relation xml:lang="en">Lambrusco_seco</dc:relation>
+        <dc:relation xml:lang="en">Malbec</dc:relation>
+        <dc:relation xml:lang="en">Syrah</dc:relation>
+        <rdfs:label xml:lang="en">PepperoniPizza</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8NV3TjxiYMWdpgkHLTe8Lt"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7fFAKVP91423aBsXA21EaU"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9ATE8LAt96UsOVLivuW71s"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RScyNaR2NeMw8Mjc3mbyuW"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9bBNdyCklYSMS0huAtriyK"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R8FZyeSH5n2EoIfJmUbCxA3"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RwFqgP3gclqdqqjsqDNey"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9JVhNbKGXNPpR7Qj1qxWP"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">Italian universal popular dish with a flat dough-based base and toppings</dc:description>
+        <dc:description xml:lang="pt-br">alimento</dc:description>
+        <dc:description xml:lang="es">preparación culinaria originaria de Italia</dc:description>
+        <rdfs:label xml:lang="en">Pizza</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">pie, pizza pie</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rq4C1uDrxSvT7pEWlh9Fpi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">A robust red that combines well with fattier meats.</dc:description>
+        <dc:description xml:lang="pt">Um tinto robusto que combina bem com carnes mais gordurosas.</dc:description>
+        <dc:description xml:lang="es">Un tinto robusto que combina bien con carnes más gordurosas.</dc:description>
+        <rdfs:label xml:lang="en">Cabernet_Sauvignon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RsGpBshbHeac2kIKiqARAh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RQXD1hlAOuvUKCGNgsogsJ"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBZ1FaHNFG1JxlsVxLKPycA"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/Rlvl0Pv89lgObaMY13U9Jy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">Topping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RuhBWxL8H4RUZTopR0Rvw4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GotlaOYGzbr1wfpx3jY2"/>
+        <dc:description xml:lang="en">A brandy wine with citrus notes, ideal for destacar vegetais frescoes.</dc:description>
+        <dc:description xml:lang="pt-br">Um vinho branco leve com notas cítricas, ideal para destacar vegetais frescos.</dc:description>
+        <dc:description xml:lang="es">Un vino blanco con notas cítricas, ideal para acompañar verduras frescas.</dc:description>
+        <rdfs:label xml:lang="en">Pinot_Grigio</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8JwZJxnsjlK020S7TeNZRp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8JwZJxnsjlK020S7TeNZRp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBNgBwLQWOZ0F89EPvYPIj4"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBJz7TDEBJlkQEojvnupUxS"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdfs:label xml:lang="en">PizzaFourCheese1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9tkdJpee1rggkTF79plvYL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9tkdJpee1rggkTF79plvYL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCTodrqctKwNYE67Aa6rmuB"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdfs:label xml:lang="en">PizzaMargherita1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBn5jncHOSnCO1YfJYKa02I -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBn5jncHOSnCO1YfJYKa02I">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBu5LquyPobCFsJRGkH4rHz"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7ctRGdZ9AXJUC0kqDkyBtV"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RDhHodZDsbxptakbY8BR2GS"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdfs:label xml:lang="en">MeatPizza1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCLEbiJnFizjeGt151HNBy6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCLEbiJnFizjeGt151HNBy6">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RXyVJTaM5w7GKASDNuJKGY"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9EXBZNPLy0jooabwxG5MvQ"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RDhHodZDsbxptakbY8BR2GS"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdfs:label xml:lang="en">PizzaPepperoni1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD3Y23LR9Og4btkFkvNK1JG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RD3Y23LR9Og4btkFkvNK1JG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBJmM1NL1dzkpx51IhZmXnR"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBJkrFbC9Zf4HiFykTsGJxc"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBOlHcpfZu4PSDNmh28OwZE"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9cT0hYo6XzBucpZldryoLn"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCdnyg9YBOEw0xlfttw9Dyy"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdfs:label xml:lang="en">VegetarianPizza1</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
